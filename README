@@ -1,0 +1,16 @@
+
+
+This is a simple PHP starter project that uses gulp for live reload.
+
+Skeleton Framework is included.
+
+To use this project, simply download from github, then run:
+
+npm install --save-dev
+
+
+Once node_modules is in place, then run the command:
+
+gulp
+
+To launch the project on a local server.
