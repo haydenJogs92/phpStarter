@@ -14,3 +14,5 @@ Once node_modules is in place, then run the command:
 gulp
 
 To launch the project on a local server.
+
+When editting a CSS or JS file, gulp will automatically minify each file individually and reload the server.
